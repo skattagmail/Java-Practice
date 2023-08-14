@@ -1,4 +1,4 @@
-package com.threads.synchronization;
+package com.java.threads.synchronization;
 
 public class Account {
 	

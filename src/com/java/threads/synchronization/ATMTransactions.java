@@ -1,4 +1,4 @@
-package com.threads.synchronization;
+package com.java.threads.synchronization;
 public class ATMTransactions {
 	public static void main(String[] args) {
 			Account account = new Account();
